@@ -1,7 +1,7 @@
 ### 关于我
 
 - :cat: 13 年毕业，网名纳兰天忆，很多人喊我 『 小鸡 』，没有叠音! 大家也可以喊我『 喵爸 』
-- :car: 前端码农,也会一点其他的，最近在研究 Rust
+- :car: 前端码农,也会一点其他的，最近在研究 Rust，Python
 - :computer: 作品：剧本未定，演员暂无
 - 公众号 [喵爸的小作坊](https://static.miaodaddy.xyz/blog-static/web/mp.png)
 - 自建 [miaodaddy.xyz](https://miaodaddy.xyz/) - 初步有了些内容，持续更新中
@@ -14,3 +14,4 @@
 - [MyReact](https://github.com/nalantianyi/my-react) 练手项目，各处取经，尝试自己实现个 React
 - [js-algorithms](https://github.com/nalantianyi/js-algorithms) 总结一些算法的 JS 实现
 - [手撕 ahooks](https://juejin.cn/column/7308371444371324928) blog 更新中，手撕项目后续上线
+- [dify源码学习指南](https://github.com/nalantianyi) 新上
